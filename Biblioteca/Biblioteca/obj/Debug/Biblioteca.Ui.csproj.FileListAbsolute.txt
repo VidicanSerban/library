@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\bin\Debug\Entitati.dll
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\bin\Debug\Entitati.pdb
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Ui.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Ui.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Ui.csproj.CopyComplete
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
